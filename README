@@ -1,0 +1,5 @@
+I keep VBA code that works here.
+
+DSTK: My data science toolkit. I will periodically put stuff into this file to give me functions that don't live in excel
+
+Codebook_Maker: Generates an html codebook/data dictionary from any excel worksheet. Needs to be laid out as a simple table. Useful for communicating your metadata.
